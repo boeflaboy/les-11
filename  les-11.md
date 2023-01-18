@@ -58,11 +58,19 @@ De providers worden regelmatig gecontroleerd of ze voldoen aan de wet en regelge
 
 ![This is an image](https://www.titanfile.com/wp-content/uploads/2022/06/ISO-27018-Certification-Emblem.png)
 
-[^1]:From itgovernance https://www.itgovernance.co.uk/iso-27017-and-iso-27018#:~:text=The%20main%20benefits%20of%20ISO,between%20organisations%20and%20their%20customers.
-[^2]
-[^3]
-[^4]
-[^5]
+[^1]: ISO 27017 and ISO 27018 From itgovernance https://www.itgovernance.co.uk/iso-27017-and-iso-27018#:~:text=The%20main%20benefits%20of%20ISO,between%20organisations%20and%20their%20customers.
+
+[^2]: Lupsan, S. (2022, July 5). Protecting PII in the Cloud. From Cyscale: https://cyscale.com/blog/protecting-pii-in-the-cloud/
+
+[^3]: Nunn, A. (2021, January 27). What Is ISO 27018:2019? Everything Executives Need to Know. From auth0 Blog: https://auth0.com/blog/what-is-iso-27018-2019-everything-executives-need-to-know/
+
+[^4]: ISO 27018: How to protect PII in public clouds. (2023). From DataGuard: https://www.dataguard.co.uk/blog/iso-27018/
+
+[^5]: Gibson, S. (2015, November 2). ISO 27018 compliance: Here's what you need to know. From InfoWorld: https://www.infoworld.com/article/3000021/iso-27018-compliance-heres-what-you-need-to-know.html
+
+[^6]: ISO/IEC 27018:2019 Compliance. (2023). From AWS: https://aws.amazon.com/compliance/iso-27018-faqs/
+
+
 
 
 
