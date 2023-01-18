@@ -56,7 +56,7 @@ De bekende Public Cloud providers voldoen aan deze standaard. Ze zijn natuurlijk
 De providers worden regelmatig gecontroleerd of ze voldoen aan de wet en regelgeving m.b.t. de standaard. Onafhankelijke partijen beoordeelt een provider en bepaald op deze manier of zij compliant is of niet. 
 (ISO/IEC 27018:2019 Compliance, 2023) EY CertifyPoint. Dit is een ISO-certificeerder die is geaccrediteerd door de Raad voor Accreditatie, lid van het International Accreditation Forum (IAF). Certificaten uitgegeven door EY CertifyPoint worden erkend als geldige certificaten in alle landen met een IAF-lid.
 
-![This is an image](/boeflaboy/les-11/blob/main/certification_iso_27018.jpeg)
+![This is an image](/boeflaboy/les-11/blob/main/ISO-27018-Certification-Emblem.png)
 
 
 
